@@ -49,3 +49,8 @@ You can get your color name and #FFFFFF from w3cschool
 head section => navigation
 main section => meat and bones
 footer section
+
+# link tag
+a
+href
+target="_blank" => to open website in a new tag
